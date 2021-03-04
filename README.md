@@ -3,7 +3,7 @@
 Authors: [Nikhil Kumar Tomar](https://www.linkedin.com/in/nktomar/), [Debesh Jha](https://www.linkedin.com/in/debesh-jha-071462aa/), Sharib Ali, Håvard D. Johansen, Dag Johansen, Michael A. Riegler and Pål Halvorsen
 
 ## Architecture
-The proposed DDANet isfully convolutional network consists of a single encoder and dual decoders. Theencoder  consists  of  4  encoder  block  whereas  each  decoder  also  consists  of  4 decoder block. The encoder takes the RGB image as input which passes throughthe shared encoder and then it goes through both the decoders. The first decodergives  the  segmentation  mask  and  the  second  decoder  gives  the  original  inputimage in the grayscale format
+The proposed DDANet is fully convolutional network consists of a single encoder and dual decoders. The encoder  consists  of  4  encoder  block  whereas  each  decoder  also  consists  of  4 decoder block. The encoder takes the RGB image as input which passes throughthe shared encoder and then it goes through both the decoders. The first decoder gives the segmentation mask and the  second  decoder gives the original input image in the grayscale format.
 
 ![DDANet Architecture](figures/EndoTect.png)
 
