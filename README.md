@@ -16,3 +16,16 @@ The proposed DDANet is fully convolutional network consists of a single encoder 
 ## Qualitative Results
 ![Qualitative Results](figures/figure_name.png)
 
+## Citation
+Please cite our paper if you find the work useful: 
+<pre>
+@inproceedings{tomar2020ddanet,
+  title={DDANet: Dual Decoder Attention Network for Automatic Polyp Segmentation},
+  author={Tomar, Nikhil Kumar and Jha, Debesh and Ali, Sharib and Johansen, H{\aa}vard D and Johansen, Dag and Riegler, Michael A and Halvorsen, P{\aa}l},
+  booktitle={ICPR International Workshop and Challenges},
+  year={2021}
+}
+</pre>
+
+## Contact
+please contact nikhilroxtomar@gmail.com and debesh@simula.no for any further questions. 
