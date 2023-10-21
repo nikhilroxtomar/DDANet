@@ -28,4 +28,4 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-please contact nikhilroxtomar@gmail.com and debesh@simula.no for any further questions. 
+please contact nikhilroxtomar@gmail.com and debeshjha1@gmail.com for any further questions. 
